@@ -16,7 +16,13 @@ from .utils.dataset_walker import DatasetWalker
 
 logger = logging.getLogger(__name__)
 
-ADD_TOKENS_VALUES = ["<fact_sep>", "<rel_bos>", "<rel_eos>"]
+ADD_TOKENS_VALUES = ["<utter_sep>", "<past>", "<center>", "<future>", "<rel_bos>", "<rel_eos>",
+                     "personx", "persony", "personz", "<fact_sep>", "<eos_fact>",
+                     "<atlocation>", "<capableof>", "<causes>", "<desires>",
+                     "<hasproperty>", "<hassubevent>", "<hinderedby>", "<isafter>",
+                     "<isbefore>", "<madeupof>", "<notdesires>", "<objectuse>",
+                     "<oeffect>", "<oreact>", "<owant>", "<xattr>", "<xeffect>",
+                     "<xintent>", "<xneed>", "<xreact>", "<xreason>", "<xwant>"]
 
 
 class BaseDataset(torch.utils.data.Dataset):
