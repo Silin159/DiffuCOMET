@@ -134,14 +134,14 @@ python ./diffu_eval/prepare_comfact_linking.py --test_data ${test_dataset} --gen
 # ${eval_model}: ${test_dataset}_facts_{base|large}_${train_step}
 # or ${test_dataset}_pipeline_{base|large}_${train_step_head}_${train_step_tail}
 
-# Switching to ComFact original environment (optional)
+# Switching to ComFact original environment
 # Please refer to ComFact_Linker/README.md
 
 # Run ComFact linker
 bash ComFact_Linker/run_fact_link.sh ${eval_model}
 # scoring results will be saved in ComFact_Linker/pred/${eval_model}/predictions.json
 
-# Switching back to DiffuCOMET environment (optional)
+# Switching back to DiffuCOMET environment
 # Please refer to ComFact_Linker/README.md
 
 # Post-processing ComFact linker scoring results:
