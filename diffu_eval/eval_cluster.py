@@ -33,7 +33,10 @@ def cluster_emb_similarity(cluster_1, cluster_2, test="comfact"):
             return ", ".join(triple)
         else:
             triple = get_triple_from_fact(fact)
-            return relation_to_natural[triple[1]].replace("$H", triple[0]).replace("$T", triple[2])
+            if triple[1] in relation_to_natural:
+                return relation_to_natural[triple[1]].replace("$H", triple[0]).replace("$T", triple[2])
+            else:
+                return triple[0]+", "+triple[2]
 
     cluster_1_natural = [process_as_natural(fa, test) for fa in cluster_1]
     cluster_2_natural = [process_as_natural(fa, test) for fa in cluster_2]
@@ -98,7 +101,10 @@ def clustering(fact_list, threshold, cluster_type="edit", test="comfact"):
                 natural = ", ".join(triple)
             else:
                 triple = get_triple_from_fact(fact_single)
-                natural = relation_to_natural[triple[1]].replace("$H", triple[0]).replace("$T", triple[2])
+                if triple[1] in relation_to_natural:
+                    natural = relation_to_natural[triple[1]].replace("$H", triple[0]).replace("$T", triple[2])
+                else:
+                    natural = triple[0] + ", " + triple[2]
             s_bert_emb = sentence_bert.encode(natural, convert_to_numpy=True)
             s_bert_emb = s_bert_emb / np.linalg.norm(s_bert_emb, ord=2)
             fact_emb.append(s_bert_emb)

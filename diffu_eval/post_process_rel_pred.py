@@ -1,6 +1,6 @@
 import json
 import argparse
-from diffu_eval.extract_tools import extract_rel
+from extract_tools import extract_rel
 from tqdm import tqdm
 
 
@@ -27,11 +27,12 @@ def main(args):
         else:
             pred_rel_map[cid].append(" ".join([head, rel, tail]))
 
-    with open(args.processed_dir, "r") as f:
+    with open(args.pipeline_result_dir+"/gen_processed.json", "r") as f:
         processed_results = json.load(f)
 
     for cid, _ in tqdm(enumerate(processed_results)):
-        processed_results[cid]["generations"] = list(set(pred_rel_map[str(cid)]))
+        if len(processed_results[cid]["gen_no_rel"]) > 0:
+            processed_results[cid]["generations"] = list(set(pred_rel_map[str(cid)]))
 
     with open(args.pipeline_result_dir+"/gen_processed.json", "w") as f:
         json.dump(processed_results, f, indent=2)

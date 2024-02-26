@@ -1,7 +1,7 @@
 import numpy as np
 from sklearn.cluster import DBSCAN, HDBSCAN
 from sklearn.manifold import TSNE
-from diffu_eval.parse_toolkits import tag_lemmatize, extract_patterns
+from parse_toolkits import tag_lemmatize, extract_patterns
 
 ent_pts = {}
 

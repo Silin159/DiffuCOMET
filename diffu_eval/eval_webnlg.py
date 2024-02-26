@@ -1,5 +1,5 @@
 import json
-from diffu_eval.misc.utils import compute_scores_simple
+from misc.utils import compute_scores_simple
 from extract_tools import get_triple_from_fact_webnlg
 from tqdm import tqdm
 import argparse

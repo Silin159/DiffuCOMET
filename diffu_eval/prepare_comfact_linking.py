@@ -91,7 +91,7 @@ def main(args):
                 if args.test_data == "webnlg":
                     data_point_single["text"].append({"type": "fact", "utter": triple[1]})
                 else:
-                    data_point_single["text"].append({"type": "fact", "utter": relation_to_natural[triple[1]]})
+                    data_point_single["text"].append({"type": "fact", "utter": relation_to_natural.get(triple[1], ", ")})
                 data_point_single["text"].append({"type": "fact", "utter": triple[2]})
 
                 logs.append(data_point_single)

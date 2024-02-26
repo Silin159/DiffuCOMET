@@ -1,0 +1,223 @@
+[
+  {
+    "context": "<center> hank had to wrap a lot of gifts for his family . <future> he ran out of wrapping paper with 4 gifts to go . <utter_sep> he went to the kitchen and found shopping bags .",
+    "golds": [
+      "wrap <objectuse> wrap the present",
+      "buys gifts for his family <xeffect> wraps the gifts",
+      "buys gifts for his family <isbefore> wraps the gifts in wrapping paper",
+      "wrappings <objectuse> hid the present",
+      "giftwrapping <objectuse> conceal a gift",
+      "wraps gifts <xwant> give gifts",
+      "gift <atlocation> wrapped container"
+    ],
+    "gen_no_rel": [
+      "advertisementadvertisementadvertisement sniperadvertisementadvertisement squatsadvertisementadvertisement gunmanadvertisementadvertisement SWAT <fact_sep> scenic refute refute horny frivol",
+      "advertisementadvertisementadvertisement sniperadvertisementadvertisement squatsadvertisementadvertisement SWATadvertisementadvertisement overwhel <fact_sep> frantically franticallyundo frantically frantically",
+      "advertisementadvertisementadvertisement sniperadvertisementadvertisement SWATadvertisementadvertisement overwheladvertisementadvertisement squats <fact_sep> URA vivo NRL NRL dorsal",
+      "advertisementadvertisementadvertisement sniperadvertisementadvertisement overwheladvertisementadvertisement executadvertisementadvertisement squats <fact_sep> irresist irresist alias irresist alias",
+      "advertisementadvertisementadvertisement snipersadvertisementadvertisement sniperadvertisementadvertisement squatsadvertisementadvertisement gunman <fact_sep> holster healer holster holster holster",
+      "advertisementadvertisementadvertisement sniperadvertisementadvertisement squatsadvertisementadvertisement gunmanadvertisementadvertisement execut <fact_sep> SHALL mM\u00a9 SHALL RHP",
+      "advertisementadvertisementadvertisement sniperadvertisementadvertisement squatsadvertisementadvertisement executadvertisementadvertisement gunman <fact_sep> shampoo shampoo shampoo Leviathan shampoo",
+      "advertisementadvertisementadvertisement sniperadvertisementadvertisement squatsadvertisementadvertisement executadvertisementadvertisement gunman <fact_sep> luxurious shampoo shampoo luxurious shampoo",
+      "advertisementadvertisementadvertisement sniperadvertisementadvertisement squatsadvertisementadvertisement gunmanadvertisementadvertisement overwhel <fact_sep> negotiator negotiator negotiatorBIP negotiator",
+      "advertisementadvertisementadvertisement sniperadvertisementadvertisement squatsadvertisementadvertisement gunmanadvertisementadvertisement execut <fact_sep> neighb SHALL SHALL SHALL RHP",
+      "advertisementadvertisementadvertisement sniperadvertisementadvertisement overwheladvertisementadvertisement executadvertisementadvertisement squats <fact_sep> mastermind fades alias aliases alias",
+      "advertisementadvertisementadvertisement snipersadvertisementadvertisement sniperadvertisementadvertisement squatsadvertisementadvertisement gunman <fact_sep> holster holster healer weave stitch",
+      "advertisementadvertisementadvertisement sniperadvertisementadvertisement executadvertisementadvertisement squatsadvertisementadvertisement gunman <fact_sep> advertisementadvertisementadvertisement {{advertisement",
+      "advertisementadvertisementadvertisement sniperadvertisementadvertisement squatsadvertisementadvertisement SWATadvertisementadvertisement overwhel <fact_sep> frantically relig frantically frantically frantically",
+      "advertisementadvertisementadvertisement sniperadvertisementadvertisement squatsadvertisementadvertisement SWATadvertisementadvertisement overwhel <fact_sep> frantically frantically franticallyadvertisement frantically",
+      "advertisementadvertisementadvertisement sniperadvertisementadvertisement executadvertisementadvertisement squatsadvertisementadvertisement gunman <fact_sep> advertisementadvertisementadvertisementLiverpooladvertisement",
+      "advertisementadvertisementadvertisement overwheladvertisementadvertisement sniperadvertisementadvertisement executadvertisementadvertisement squats <fact_sep> frontrunner frontrunner comet comet comet",
+      "advertisementadvertisementadvertisement sniperadvertisementadvertisement squatsadvertisementadvertisement SWATadvertisementadvertisement overwhel <fact_sep> frantically frantically franticallyundo frantically",
+      "advertisementadvertisementadvertisement sniperadvertisementadvertisement SWATadvertisementadvertisement overwheladvertisementadvertisement squats <fact_sep> vivo \ud83d\ude42 \ud83d\ude42 dorsal \ud83d\ude42",
+      "advertisementadvertisementadvertisement sniperadvertisementadvertisement squatsadvertisementadvertisement executadvertisementadvertisement gunman <fact_sep> shampoo shampoo shampoo Moroccan shampoo",
+      "advertisementadvertisementadvertisement sniperadvertisementadvertisement squatsadvertisementadvertisement gunmanadvertisementadvertisement SWAT <fact_sep> irresist covari scenic irresist murd",
+      "advertisementadvertisementadvertisement sniperadvertisementadvertisement squatsadvertisementadvertisement gunmanadvertisementadvertisement SWAT <fact_sep> refute refute vener scenic horny",
+      "advertisementadvertisementadvertisement overwheladvertisementadvertisement sniperadvertisementadvertisement executadvertisementadvertisement squats <fact_sep> comet superstar frontrunner comet frontrunner",
+      "advertisementadvertisementadvertisement sniperadvertisementadvertisement squatsadvertisementadvertisement gunmanadvertisementadvertisement overwhel <fact_sep> negotiator negotiatorBIP negotiator negotiator",
+      "advertisementadvertisementadvertisement sniperadvertisementadvertisement squatsadvertisementadvertisement gunmanadvertisementadvertisement overwhel <fact_sep> negotiator negotiator negotiatorScroll negotiator",
+      "advertisementadvertisementadvertisement snipersadvertisementadvertisement sniperadvertisementadvertisement squatsadvertisementadvertisement gunman <fact_sep> goaltender holster holster holster weave",
+      "advertisementadvertisementadvertisement sniperadvertisementadvertisement squatsadvertisementadvertisement gunmanadvertisementadvertisement execut <fact_sep> SHALL SHALL noun SHALL+++",
+      "advertisementadvertisementadvertisement sniperadvertisementadvertisement squatsadvertisementadvertisement SWATadvertisementadvertisement overwhel <fact_sep> frantically frantically relig frantically frantically",
+      "advertisementadvertisementadvertisement sniperadvertisementadvertisement squatsadvertisementadvertisement executadvertisementadvertisement gunman <fact_sep> shampoo shampoo shampoo luxurious shampoo",
+      "advertisementadvertisementadvertisement sniperadvertisementadvertisement executadvertisementadvertisement squatsadvertisementadvertisement gunman <fact_sep> {{advertisementadvertisementadvertisement {{",
+      "advertisementadvertisementadvertisement sniperadvertisementadvertisement SWATadvertisementadvertisement overwheladvertisementadvertisement squats <fact_sep> NRL dorsal USL vivo NRL",
+      "advertisementadvertisementadvertisement sniperadvertisementadvertisement squatsadvertisementadvertisement gunmanadvertisementadvertisement execut <fact_sep> SHALL RHP RHP SHALL SHALL",
+      "advertisementadvertisementadvertisement sniperadvertisementadvertisement executadvertisementadvertisement squatsadvertisementadvertisement gunman <fact_sep> advertisementadvertisement {{ {{ {{",
+      "advertisementadvertisementadvertisement overwheladvertisementadvertisement sniperadvertisementadvertisement executadvertisementadvertisement squats <fact_sep> frontrunner multiplier frontrunner frontrunner frontrunner",
+      "advertisementadvertisementadvertisement sniperadvertisementadvertisement SWATadvertisementadvertisement overwheladvertisementadvertisement squats <fact_sep> vivo \ud83d\ude42 deport dorsal USL",
+      "advertisementadvertisementadvertisement overwheladvertisementadvertisement sniperadvertisementadvertisement executadvertisementadvertisement squats <fact_sep> comet comet frontrunner frontrunner frontrunner",
+      "advertisementadvertisementadvertisement sniperadvertisementadvertisement SWATadvertisementadvertisement overwheladvertisementadvertisement squats <fact_sep> deport NRL dorsal \u2022 \ud83d\ude42",
+      "advertisementadvertisementadvertisement sniperadvertisementadvertisement squatsadvertisementadvertisement gunmanadvertisementadvertisement SWAT <fact_sep> horny refute scenic irresist scenic",
+      "advertisementadvertisementadvertisement sniperadvertisementadvertisement overwheladvertisementadvertisement executadvertisementadvertisement squats <fact_sep> alias patented alias mastermind alias",
+      "advertisementadvertisementadvertisement sniperadvertisementadvertisement squatsadvertisementadvertisement gunmanadvertisementadvertisement execut <fact_sep> RHP SHALL SHALL noun SHALL",
+      "advertisementadvertisementadvertisement sniperadvertisementadvertisement squatsadvertisementadvertisement gunmanadvertisementadvertisement overwhel <fact_sep> negotiatorScroll negotiator negotiator negotiator",
+      "advertisementadvertisementadvertisement snipersadvertisementadvertisement sniperadvertisementadvertisement squatsadvertisementadvertisement gunman <fact_sep> healer holster healer holster holster",
+      "advertisementadvertisementadvertisement sniperadvertisementadvertisement squatsadvertisementadvertisement executadvertisementadvertisement gunman <fact_sep> shampoo shampoo Leviathan Leviathan shampoo",
+      "advertisementadvertisementadvertisement snipersadvertisementadvertisement sniperadvertisementadvertisement squatsadvertisementadvertisement gunman <fact_sep> healer holster healer healer holster",
+      "advertisementadvertisementadvertisement sniperadvertisementadvertisement squatsadvertisementadvertisement executadvertisementadvertisement gunman <fact_sep> shampoo shampoo luxurious shampoo shampoo",
+      "advertisementadvertisementadvertisement sniperadvertisementadvertisement executadvertisementadvertisement squatsadvertisementadvertisement gunman <fact_sep> advertisementadvertisement {{advertisement {{",
+      "advertisementadvertisementadvertisement sniperadvertisementadvertisement executadvertisementadvertisement squatsadvertisementadvertisement gunman <fact_sep> {{advertisement {{advertisementadvertisement",
+      "advertisementadvertisementadvertisement snipersadvertisementadvertisement sniperadvertisementadvertisement squatsadvertisementadvertisement gunman <fact_sep> holster saddle holster holster holster",
+      "advertisementadvertisementadvertisement sniperadvertisementadvertisement SWATadvertisementadvertisement overwheladvertisementadvertisement squats <fact_sep> dorsal Patreon deport deport dorsal",
+      "advertisementadvertisementadvertisement sniperadvertisementadvertisement squatsadvertisementadvertisement gunmanadvertisementadvertisement SWAT <fact_sep> vener horny irresist scenic scenic",
+      "advertisementadvertisementadvertisement sniperadvertisementadvertisement SWATadvertisementadvertisement overwheladvertisementadvertisement squats <fact_sep> dorsal \u2022 NRL \ud83d\ude42 deport",
+      "advertisementadvertisementadvertisement sniperadvertisementadvertisement SWATadvertisementadvertisement overwheladvertisementadvertisement squats <fact_sep> dorsalURA NRL NRL USL",
+      "advertisementadvertisementadvertisement sniperadvertisementadvertisement squatsadvertisementadvertisement executadvertisementadvertisement gunman <fact_sep> shampoo Leviathan shampoo shampoo shampoo",
+      "advertisementadvertisementadvertisement sniperadvertisementadvertisement squatsadvertisementadvertisement gunmanadvertisementadvertisement SWAT <fact_sep> horny vener scenic irresist scenic",
+      "advertisementadvertisementadvertisement sniperadvertisementadvertisement overwheladvertisementadvertisement executadvertisementadvertisement squats <fact_sep> irresist alias irresist irresist alias",
+      "advertisementadvertisementadvertisement sniperadvertisementadvertisement squatsadvertisementadvertisement gunmanadvertisementadvertisement SWAT <fact_sep> irresist irresist scenic holster holster",
+      "advertisementadvertisementadvertisement overwheladvertisementadvertisement sniperadvertisementadvertisement executadvertisementadvertisement squats <fact_sep> comet frontrunner frontrunner frontrunner comet",
+      "advertisementadvertisementadvertisement sniperadvertisementadvertisement executadvertisementadvertisement squatsadvertisementadvertisement gunman <fact_sep> advertisement {{advertisementadvertisementadvertisement",
+      "advertisementadvertisementadvertisement sniperadvertisementadvertisement executadvertisementadvertisement squatsadvertisementadvertisement gunman <fact_sep> advertisement {{ {{advertisementadvertisement",
+      "advertisementadvertisementadvertisement sniperadvertisementadvertisement overwheladvertisementadvertisement executadvertisementadvertisement squats <fact_sep> alias irresist alias alias alias",
+      "advertisementadvertisementadvertisement sniperadvertisementadvertisement squatsadvertisementadvertisement SWATadvertisementadvertisement overwhel <fact_sep> franticallyundo frantically relig frantically",
+      "advertisementadvertisementadvertisement sniperadvertisementadvertisement squatsadvertisementadvertisement gunmanadvertisementadvertisement SWAT <fact_sep> refute scenic horny irresist scenic",
+      "advertisementadvertisementadvertisement snipersadvertisementadvertisement sniperadvertisementadvertisement squatsadvertisementadvertisement gunman <fact_sep> holster healer beginner holster holster",
+      "advertisementadvertisementadvertisement sniperadvertisementadvertisement overwheladvertisementadvertisement executadvertisementadvertisement squats <fact_sep> alias alias alias mastermind alias",
+      "advertisementadvertisementadvertisement overwheladvertisementadvertisement sniperadvertisementadvertisement executadvertisementadvertisement squats <fact_sep> comet frontrunner multiplier frontrunner comet",
+      "advertisementadvertisementadvertisement sniperadvertisementadvertisement squatsadvertisementadvertisement gunmanadvertisementadvertisement execut <fact_sep> SHALL SHALL SHALL neighb SHALL",
+      "advertisementadvertisementadvertisement overwheladvertisementadvertisement sniperadvertisementadvertisement executadvertisementadvertisement squats <fact_sep> comet comet comet frontrunner comet",
+      "advertisementadvertisementadvertisement sniperadvertisementadvertisement overwheladvertisementadvertisement executadvertisementadvertisement squats <fact_sep> alias alias irresist irresistadvertisement",
+      "advertisementadvertisementadvertisement snipersadvertisementadvertisement sniperadvertisementadvertisement squatsadvertisementadvertisement gunman <fact_sep> holster holster healer holster healer",
+      "advertisementadvertisementadvertisement overwheladvertisementadvertisement sniperadvertisementadvertisement executadvertisementadvertisement squats <fact_sep> frontrunner superstar horny comet frontrunner",
+      "advertisementadvertisementadvertisement sniperadvertisementadvertisement overwheladvertisementadvertisement executadvertisementadvertisement squats <fact_sep> alias alias irresist aliasadvertisement",
+      "advertisementadvertisementadvertisement sniperadvertisementadvertisement squatsadvertisementadvertisement SWATadvertisementadvertisement overwhel <fact_sep> frantically frantically frantically frontrunner frantically",
+      "advertisementadvertisementadvertisement sniperadvertisementadvertisement squatsadvertisementadvertisement gunmanadvertisementadvertisement execut <fact_sep> \u00a9 SHALL SHALL SHALL noun",
+      "advertisementadvertisementadvertisement sniperadvertisementadvertisement squatsadvertisementadvertisement gunmanadvertisementadvertisement overwhel <fact_sep> negotiator negotiator negotiator clinch negotiator",
+      "advertisementadvertisementadvertisement sniperadvertisementadvertisement squatsadvertisementadvertisement gunmanadvertisementadvertisement execut <fact_sep> RHP SHALL RHP RHP SHALL"
+    ]
+  },
+  {
+    "context": "<past> hank had to wrap a lot of gifts for his family . <center> he ran out of wrapping paper with 4 gifts to go . <future> he went to the kitchen and found shopping bags . <utter_sep> he cut up the bags to make sheets of paper .",
+    "golds": [
+      "gift <atlocation> wrapped container",
+      "gift <objectuse> give for christmas",
+      "paper <objectuse> wrap a gift in",
+      "paper <objectuse> to put around presents",
+      "paper <objectuse> wrap presents",
+      "paper <objectuse> wrapping present",
+      "paper <objectuse> wrap present",
+      "wrap <objectuse> wrap the present",
+      "gift paper <objectuse> wrap the gift",
+      "giftwrapping <objectuse> conceal a gift",
+      "giftwrapping <objectuse> wrap purchase",
+      "giftwrap <objectuse> wrap presents",
+      "giftwrap <objectuse> make a present with",
+      "giftwrap <objectuse> make christmas gift mysterious",
+      "wraps gifts <xintent> to make the gift appear fancy",
+      "wraps gifts <xwant> to watch the recipients open the gifts",
+      "giftwrap <objectuse> make the boxes look nice",
+      "wraps gifts <xwant> give gifts",
+      "wraps gifts <xwant> to deliver the gifts",
+      "wraps gifts <xeffect> gives surprise gift"
+    ],
+    "gen_no_rel": []
+  },
+  {
+    "context": "<past> hank had to wrap a lot of gifts for his family . <utter_sep> he ran out of wrapping paper with 4 gifts to go . <center> he went to the kitchen and found shopping bags . <future> he cut up the bags to make sheets of paper . <utter_sep> he used the paper to wrap the last of the gifts .",
+    "golds": [
+      "kitchen <objectuse> keep their stuff in",
+      "kitchen <objectuse> storing food",
+      "kitchen <objectuse> food preparation",
+      "grocery bag <objectuse> put items into",
+      "grocery bag <objectuse> hold items",
+      "grocery bag <objectuse> hold groceries",
+      "bag <objectuse> to put the gift in",
+      "bag <objectuse> keep the gift in",
+      "bag <objectuse> put the gift into"
+    ],
+    "gen_no_rel": []
+  },
+  {
+    "context": "<past> he went to the kitchen and found shopping bags . <utter_sep> he cut up the bags to make sheets of paper . <center> he used the paper to wrap the last of the gifts .",
+    "golds": [
+      "wraps gifts <xneed> to buy gifts",
+      "paper <objectuse> wrap a gift in",
+      "paper <objectuse> to put around presents",
+      "wrap <objectuse> wrap the present",
+      "paper wrappers <objectuse> wrap a gift",
+      "paper wrappers <objectuse> wrap a present",
+      "giftwrapping <objectuse> conceal a gift",
+      "giftwrapping <objectuse> wrap purchase",
+      "gift <atlocation> box or bag",
+      "gift paper <objectuse> wrap the gift"
+    ],
+    "gen_no_rel": []
+  },
+  {
+    "context": "<center> cathy 's daughter recently told her about a special friend . <future> cathy found it odd that her daughter even had a friend . <utter_sep> cathy asked her daughter several questions about her friend .",
+    "golds": [
+      "tells persony <xintent> inform their friend",
+      "tells persony <xintent> to share the news",
+      "tells persony about it <xintent> to tell the story to persony.",
+      "talks to his daughter <xneed> contact the daughter",
+      "talks to his daughter <xwant> to ask his daughter questions",
+      "tells persony <owant> to know more",
+      "tells persony <oeffect> person y finds out what him tells them",
+      "tells persony <xwant> to have a conversation with persony",
+      "talks to his daughter <xeffect> learns about daughter"
+    ],
+    "gen_no_rel": []
+  },
+  {
+    "context": "<past> cathy 's daughter recently told her about a special friend . <utter_sep> cathy found it odd that her daughter even had a friend . <center> cathy asked her daughter several questions about her friend . <future> cathy then realized that her daughter had an imaginary friend . <utter_sep> cathy smiled , because she remembered her imaginary friend as well .",
+    "golds": [
+      "asks his daughter <xattr> curious",
+      "asks persony a question <xwant> to ask another question",
+      "question <objectuse> find the answer to",
+      "asks persony about it <xwant> to ask for more details",
+      "asks persony about it <xattr> curious",
+      "asks persony about it <xneed> to talk to person y",
+      "talks to his daughter <xwant> to ask his daughter questions",
+      "talks to his daughter <xneed> contact the daughter",
+      "asks persony something <xwant> answers to their questions",
+      "asks his daughter <xwant> to talk with her",
+      "talks to his daughter <xeffect> learns about daughter",
+      "asks persony something <oeffect> has a conversation",
+      "asks persony something <xattr> curious",
+      "asks persony something <xeffect> has a conversation"
+    ],
+    "gen_no_rel": []
+  },
+  {
+    "context": "<past> cathy found it odd that her daughter even had a friend . <utter_sep> cathy asked her daughter several questions about her friend . <center> cathy then realized that her daughter had an imaginary friend . <future> cathy smiled , because she remembered her imaginary friend as well .",
+    "golds": [
+      "talks to his daughter <xneed> contact the daughter",
+      "talks to his daughter <xwant> to ask his daughter questions",
+      "talks to his daughter <xeffect> learns about daughter"
+    ],
+    "gen_no_rel": []
+  },
+  {
+    "context": "<past> cathy asked her daughter several questions about her friend . <utter_sep> cathy then realized that her daughter had an imaginary friend . <center> cathy smiled , because she remembered her imaginary friend as well .",
+    "golds": [
+      "remember <hassubevent> recall past"
+    ],
+    "gen_no_rel": []
+  },
+  {
+    "context": "<center> mike went to the mall with his mom today . <future> without telling her , he walked away from her and into a toy store . <utter_sep> inside the toy store mike realized his mom was no longer with him .",
+    "golds": [
+      "goes to the mall with his mom <oeffect> mom  walks inside mall with him",
+      "goes to the mall with his mom <xeffect> walks in store with mom",
+      "mall <objectuse> going to store",
+      "mall <objectuse> go shopping in",
+      "mall <atlocation> shopping area",
+      "wants to go to the mall <xeffect> goes to the mall",
+      "mom <objectuse> take care of",
+      "mom <capableof> mother child",
+      "go to mall <hassubevent> getting lost",
+      "goes to the store with his mother <xintent> to go shopping",
+      "takes persony to the mall <xintent> to go shopping"
+    ],
+    "gen_no_rel": []
+  },
+  {
+    "context": "<past> mike went to the mall with his mom today . <center> without telling her , he walked away from her and into a toy store . <future> inside the toy store mike realized his mom was no longer with him . <utter_sep> mike went back out and found a police officer .",
+    "golds": [
+      "walks away from persony <xwant> walk to the store"
+    ],
+    "gen_no_rel": []
+  }
+]

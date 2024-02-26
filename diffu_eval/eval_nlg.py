@@ -2,7 +2,7 @@ import argparse
 import json
 import os
 from tqdm import tqdm
-from diffu_eval.metrics import BLEU, METEOR, ROUGE, KggNGramDiversity
+from metrics import BLEU, METEOR, ROUGE, KggNGramDiversity
 
 metrics = [BLEU(), METEOR(), ROUGE()]
 diverse_gold = [KggNGramDiversity(1), KggNGramDiversity(2), KggNGramDiversity(3), KggNGramDiversity(4)]

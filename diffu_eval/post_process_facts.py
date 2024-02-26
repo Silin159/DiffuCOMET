@@ -1,6 +1,6 @@
 import json
 import argparse
-from diffu_eval.extract_tools import filter_special
+from extract_tools import filter_special
 from tqdm import tqdm
 
 

@@ -1,8 +1,8 @@
 import torch
 import networkx as nx
-from diffu_eval.WebNLG_Text_to_triples import Evaluation_script_json
+from WebNLG_Text_to_triples import Evaluation_script_json
 import os
-from diffu_eval.misc.rdf import save_webnlg_rdf
+from misc.rdf import save_webnlg_rdf
 import json
 
 failed_node = 'failed node'
