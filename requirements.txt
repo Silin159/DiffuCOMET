@@ -31,3 +31,4 @@ sentencepiece
 nervaluate
 beautifulsoup4
 regex
+bigmpi4py
