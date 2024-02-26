@@ -17,8 +17,8 @@ from tokenizer_utils import create_tokenizer
 import dataloader_utils
 from mpi4py import MPI
 
-ADD_TOKENS_VALUES = ["<utter_sep>", "<past>", "<center>", "<future>",
-                     "personx", "persony", "personz", "<eos_fact>",
+ADD_TOKENS_VALUES = ["<utter_sep>", "<past>", "<center>", "<future>", "<rel_bos>", "<rel_eos>",
+                     "personx", "persony", "personz", "<fact_sep>", "<eos_fact>",
                      "<atlocation>", "<capableof>", "<causes>", "<desires>",
                      "<hasproperty>", "<hassubevent>", "<hinderedby>", "<isafter>",
                      "<isbefore>", "<madeupof>", "<notdesires>", "<objectuse>",
