@@ -68,7 +68,7 @@ bash ./BART_Rel_Pred/train_rel_pred.sh webnlg
 **DiffuCOMET-Fact seeded with BART-{base | large} models**:
 ```
 # Testing on ComFact ROCStories (comfact_roc), PersonaChat (comfact_persona), MuTual (comfact_mutual), MovieSummaries (comfact_movie) or WebNLG+ 2020 (webnlg):
-bash ./inference_scripts/inference.sh ${train_dataset} # ${test_dataset} facts {base|large} test ${train_step} ${schedule} ${ctx_len}
+bash ./inference_scripts/inference.sh ${train_dataset} ${test_dataset} facts {base|large} test ${train_step} ${schedule} ${ctx_len}
 
 # ${train_dataset}: {comfact_roc|webnlg}
 # ${test_dataset}: {comfact_roc|comfact_persona|comfact_mutual|comfact_movie|webnlg}
