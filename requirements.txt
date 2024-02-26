@@ -32,3 +32,4 @@ nervaluate
 beautifulsoup4
 regex
 bigmpi4py
+networkx
