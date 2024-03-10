@@ -1,6 +1,6 @@
 # DiffuCOMET
 
-This is the source code for paper DiffuCOMET: Contextual Commonsense Knowledge Diffusion.
+This is the source code for paper [DiffuCOMET: Contextual Commonsense Knowledge Diffusion](https://arxiv.org/abs/2402.17011).
 
 Part of our code is modified from [SeqDiffuSeq](https://github.com/Yuanhy1997/SeqDiffuSeq) repository.
 
