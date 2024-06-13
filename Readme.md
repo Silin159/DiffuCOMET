@@ -63,6 +63,11 @@ bash ./BART_Rel_Pred/train_rel_pred.sh comfact_roc
 bash ./BART_Rel_Pred/train_rel_pred.sh webnlg
 ```
 
+**Model Checkpoints**
+
+Our trained model checkpoints can be downloaded from [this link](https://drive.google.com/file/d/1i8WQ5TllcPylpcyCJqYEHpA2jx1Y1RZx/view?usp=sharing)
+
+
 ## Inference
 
 **DiffuCOMET-Fact seeded with BART-{base | large} models**:
