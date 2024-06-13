@@ -1,7 +1,7 @@
 #!/bin/bash
 set -u
 
-LR=0.000002  # learning rate
+LR=0.000005  # learning rate
 WARMUP=3000   # warmup steps
 SAVE=50000
 LR_ANNEAL_STEPS=300000  # total training steps
