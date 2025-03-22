@@ -1,4 +1,17 @@
-# DiffuCOMET
+<div align="center">
+
+# DiffuCOMET: Contextual Commonsense Knowledge Diffusion
+
+</div>
+
+<div align="center">
+<b><a href="https://silin159.github.io/SilinGao/" target="_blank">Silin Gao</a><sup>1</sup>, <a href="https://www.mete.is/" target="_blank">Mete Ismayilzada</a><sup>1</sup>, <a href="https://joemzhao.github.io/about.html" target="_blank">Mengjie Zhao</a><sup>2</sup>, <a href="https://www.linkedin.com/in/hiromi-wakaki-570067286/?originalSubdomain=jp" target="_blank">Hiromi Wakaki</a><sup>2</sup>, <a href="https://www.yukimitsufuji.com/" target="_blank">Yuki Mitsufuji</a><sup>2</sup>, <a href="https://atcbosselut.github.io/" target="_blank">Antoine Bosselut</a><sup>1</sup></b>
+
+<sup>1</sup>EPFL &nbsp; <sup>2</sup>Sony
+
+[![ArXiv](https://img.shields.io/badge/arXiv-2402.17011-B31B1B.svg?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2402.17011)
+
+</div>
 
 This is the source code for paper [DiffuCOMET: Contextual Commonsense Knowledge Diffusion](https://arxiv.org/abs/2402.17011).
 
@@ -166,4 +179,15 @@ python ./diffu_eval/eval_cluster.py --test_data ${test_dataset} --generation ${p
 python ./diffu_eval/eval_webnlg.py --generation ${processed_gen} --eval_result_dir ${eval_result_dir}
 
 # evaluation scores will be saved in ${eval_result_dir}/scores_webnlg.json
+```
+
+## Citation
+```bibtex
+@inproceedings{gao2024diffucomet,
+  title={DiffuCOMET: Contextual Commonsense Knowledge Diffusion},
+  author={Gao, Silin and Ismayilzada, Mete and Zhao, Mengjie and Wakaki, Hiromi and Mitsufuji, Yuki and Bosselut, Antoine},
+  booktitle={Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)},
+  pages={4809--4831},
+  year={2024}
+}
 ```
